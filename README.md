@@ -26,7 +26,7 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,typescript,nodejs,androidstudio,vscode,git,github,docker,react,oracle" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,typescript,nodejs,androidstudio,vscode,git,github,docker,react,spring" />
 </div>
 
 ---
