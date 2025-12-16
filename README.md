@@ -48,9 +48,6 @@
 ---
 
 ## 🧬 Fun Futuristic Extras
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/psychedelic.png" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
