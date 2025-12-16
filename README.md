@@ -3,16 +3,12 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   <br>
-  🚀 **Hani Esreb** 🚀
+  🚀 Hani Esreb 🚀
 </h1>
 
 <h3 align="center">
   <em>Final Computer Science Engineering Student | University of Debrecen</em>
 </h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" />
-</p>
 
 <p align="center">
   ⚡ Futuristic web & Android developer  
